@@ -5,10 +5,19 @@ mobile app and, for brand colour only, the admin.
 
 Repository: `Faka-iAction/ui-public` (FAKA iAction platform, UI component).
 
+## Status
+
+The design is finished for the first release, and the web app and the mobile app are built to it.
+
 ## Contents
 
 - [DESIGN_SYSTEM.md](DESIGN_SYSTEM.md): colour tokens for light and dark, type, shape and
   spacing, components, the app frame and navigation, and the accessibility rules.
+- [screens/](screens/): every phone screen, for each kind of visitor (guest, member, creator).
+- [onboarding/screens/](onboarding/screens/): the launch, splash and onboarding screens.
+- [desktop/screens/](desktop/screens/): the desktop layout, with its sidebar and summary panel.
+- [STRUCTURE.md](STRUCTURE.md): every file of the private design repository. The written
+  design notes and the prototypes are not published.
 
 ## How it is used
 
