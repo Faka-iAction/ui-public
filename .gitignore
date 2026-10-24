@@ -15,3 +15,9 @@ Thumbs.db
 node_modules/
 dist/
 build/
+
+# >>> merged from private ui by tools/sync-public (regenerated on every sync) >>>
+admin-template-theme-tabler-dev/
+app.html
+__pycache__/
+# <<< merged <<<
